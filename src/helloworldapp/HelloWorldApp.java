@@ -16,7 +16,7 @@ public class HelloWorldApp {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello World!"); // Display the string.
+        System.out.println("Hello World & Git!"); // Display the string.
     }
     
 }
